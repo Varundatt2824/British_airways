@@ -1,0 +1,13 @@
+requests
+selenium
+BeautifulSoup4
+pandas
+numpy
+torch
+transformers
+vaderSentiment
+scipy
+seaborn
+matplotlib
+ipywidgets
+nltk
